@@ -1,4 +1,3 @@
 Project: Guessing Game
-Date: 10 May 2019 17:39:22
-Number of rows in guessinggame:
-30
+<br/> Date: 14 May 2019 16:08:31
+<br/> Number of rows in guessinggame:41
